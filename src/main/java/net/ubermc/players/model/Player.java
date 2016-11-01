@@ -130,4 +130,5 @@ public class Player {
 	public void setServer_id(String server_id) {
 		this.server_id = server_id;
 	}
+	
 }

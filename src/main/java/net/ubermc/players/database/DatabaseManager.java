@@ -10,7 +10,7 @@ import java.sql.Statement;
 import java.util.logging.Logger;
 
 public class DatabaseManager {
-    private Connection conn;
+    public Connection conn;
     private Logger log;
     private static DatabaseManager instance = new DatabaseManager();
 
@@ -79,7 +79,7 @@ public class DatabaseManager {
         String host = "localhost";
         int port = 3306;
         String db = "authcraft";
-        String user = "user";
+        String user = "username";
         String pass = "password";
         return connectToDB(host, port, db, user, pass);
     }

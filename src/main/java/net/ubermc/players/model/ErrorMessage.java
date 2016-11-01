@@ -19,6 +19,7 @@ public class ErrorMessage {
 		this.errorCode = errorCode;
 		this.documentation = documentation;
 	}
+	
 	public String getErrorMessage() {
 		return errorMessage;
 	}
@@ -37,6 +38,5 @@ public class ErrorMessage {
 	public void setDocumentation(String documentation) {
 		this.documentation = documentation;
 	}
-	
 	
 }
