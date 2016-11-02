@@ -4,7 +4,7 @@ UberMC Players Java RESTful Server
 This project is used on the website http://www.ubermc.net/players/ It is a Java web app developed using eclipse alongside tomcat. The code is inspired by java beans. 
 
 ----------
-About UberMC.net/players
+About http://www.UberMC.net/players
 -------------
 It's a social network for the server UberMC.net. the page is a full stack of web programming languages (JAVA Web App, HTML5, CSS,  JavaScript, AJAX, jQuery, RESTful, PHP)
 
